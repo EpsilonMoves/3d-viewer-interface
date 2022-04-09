@@ -1,0 +1,15 @@
+.transform-text{
+    text-align: center;
+}
+
+.header-text{
+    text-align: center;
+    background-color: azure;
+    padding: 30px;
+    margin: 0;
+}
+
+.component-paper-root{
+    padding: 15px;
+    margin: 10px;
+}
